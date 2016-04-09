@@ -17,7 +17,7 @@
 [Rr]eleases/
 x64/
 x86/
-build/
+
 bld/
 [Bb]in/
 [Oo]bj/
@@ -62,7 +62,7 @@ artifacts/
 *.log
 *.vspscc
 *.vssscc
-
+.builds
 *.pidb
 *.svclog
 *.scc
