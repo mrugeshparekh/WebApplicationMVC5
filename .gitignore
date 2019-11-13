@@ -109,3 +109,4 @@ UpgradeLog*.XML
 *.ini
 *.bak
 packages
+.vs/
