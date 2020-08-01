@@ -1,0 +1,200 @@
+[
+	{
+		"SlyId": "1",
+		"Coursepack": "117-100-CB7-MN-942-DEM_ED-12345-0418",
+		"Name": "CBSE Demo",
+		"LangId": "102,004"
+	},
+	{
+		"SlyId": "46",
+		"Coursepack": "117-100-CB7-MN-945-CS_DEM_ED-12345-0520",
+		"Name": "CBSE X  Demo",
+		"LangId": "102"
+	},
+	{
+		"SlyId": "18",
+		"Coursepack": "117-100-IC7-MN-945-DEM_ED-12345-0420",
+		"Name": "ICSE Demo",
+		"LangId": "102"
+	},
+	{
+		"SlyId": "30",
+		"Coursepack": "117-100-KR7-MN-945-DEM_ED-12345-0420",
+		"Name": "Karnataka Demo",
+		"LangId": "102"
+	},
+	{
+		"SlyId": "31",
+		"Coursepack": "117-027-CBS-MN-945-DEM_ED-12345-0420",
+		"Name": "CBSE Hindi Demo",
+		"LangId": "004"
+	},
+	{
+		"SlyId": "3",
+		"Coursepack": "117-100-CB7-MN-942-DEM_ED-12345-0418",
+		"Name": "CBSE Demo",
+		"LangId": "102"
+	},
+	{
+		"SlyId": "19",
+		"Coursepack": "117-100-IC7-MN-945-DEM_ED-12345-0420",
+		"Name": "ICSE Demo",
+		"LangId": "102"
+	},
+	{
+		"SlyId": "35",
+		"Coursepack": "117-002-THA-MN-945-DEM_ED-12345-0420",
+		"Name": "Thai Demo",
+		"LangId": "212"
+	},
+	{
+		"SlyId": "33",
+		"Coursepack": "117-002-THA-MN-945-DEM_ED-12345-0420",
+		"Name": "Thai Demo",
+		"LangId": "212"
+	},
+	{
+		"SlyId": "4",
+		"Coursepack": "117-102-UNI-MN-945-DEM-ED-12345-0420",
+		"Name": "Universal Demo",
+		"LangId": "102"
+	},
+	{
+		"SlyId": "16",
+		"Coursepack": "117-100-USA-MN-945-NSE_CCS_DEM_ED-12345-0420",
+		"Name": "NSES & CCSSI Demo",
+		"LangId": "102"
+	},
+	{
+		"SlyId": "6",
+		"Coursepack": "117-100-GBR-MN-945-CIE_DEM_ED-12345-0420",
+		"Name": "Cambridge Demo",
+		"LangId": "102"
+	},
+	{
+		"SlyId": "5",
+		"Coursepack": "117-102-UNI-MN-945-DEM-ED-12345-0420",
+		"Name": "Universal Demo",
+		"LangId": "102"
+	},
+	{
+		"SlyId": "7",
+		"Coursepack": "117-100-GBR-MN-945-CIE_DEM_ED-12345-0420",
+		"Name": "Cambridge Demo",
+		"LangId": "102"
+	},
+	{
+		"SlyId": "13",
+		"Coursepack": "117-003-RUS-MN-945-DEM_ED-123-0420",
+		"Name": "Russian Demo",
+		"LangId": "210"
+	},
+	{
+		"SlyId": "11",
+		"Coursepack": "117-007-COL-MN-945-DEM_ED-1234-0420",
+		"Name": "Latin Spanish Demo",
+		"LangId": "203"
+	},
+	{
+		"SlyId": "10",
+		"Coursepack": "117-007-COL-MN-945-DEM_ED-1234-0420",
+		"Name": "Latin Spanish Demo",
+		"LangId": "203"
+	},
+	{
+		"SlyId": "12",
+		"Coursepack": "117-003-RUS-MN-945-DEM_ED-123-0420",
+		"Name": "Russian Demo",
+		"LangId": "210"
+	},
+	{
+		"SlyId": "17",
+		"Coursepack": "117-100-USA-MN-945-NSE_CCS_DEM_ED-12345-0420",
+		"Name": "NSES & CCSSI Demo",
+		"LangId": "102"
+	},
+	{
+		"SlyId": "14",
+		"Coursepack": "117-100-ZAF-MN-945-DEM_ED-12345-0420",
+		"Name": "South Africa Demo",
+		"LangId": "102"
+	},
+	{
+		"SlyId": "15",
+		"Coursepack": "117-100-ZAF-MN-945-DEM_ED-12345-0420",
+		"Name": "South Africa Demo",
+		"LangId": "102"
+	},
+	{
+		"SlyId": "28",
+		"Coursepack": "117-009-CHN-MN-945-DEM_ED-12345-1219",
+		"Name": "CHINESE Demo",
+		"LangId": "207"
+	},
+	{
+		"SlyId": "29",
+		"Coursepack": "117-009-CHN-MN-945-DEM_ED-12345-1219",
+		"Name": "CHINESE Demo",
+		"LangId": "207"
+	},
+	{
+		"SlyId": "36",
+		"Coursepack": "117-008-ARA-MN-945-DEM_ED-123-0420",
+		"Name": "Arabic Demo",
+		"LangId": "201"
+	},
+	{
+		"SlyId": "34",
+		"Coursepack": "117-008-ARA-MN-945-DEM_ED-123-0420",
+		"Name": "Arabic Demo",
+		"LangId": "201"
+	},
+	{
+		"SlyId": "43",
+		"Coursepack": "117-008-SAU-MN-945-DEM_ED-123-0520",
+		"Name": "Saudi Arabic Demo",
+		"LangId": "201"
+	},
+	{
+		"SlyId": "41",
+		"Coursepack": "117-008-SAU-MN-945-DEM_ED-123-0520",
+		"Name": "Saudi Arabic Demo",
+		"LangId": "201"
+	},
+	{
+		"SlyId": "42",
+		"Coursepack": "117-100-ZMB-MN-945-DEM_ED-12345-0520",
+		"Name": "Zambia Demo",
+		"LangId": "102"
+	},
+	{
+		"SlyId": "40",
+		"Coursepack": "117-100-ZMB-MN-945-DEM_ED-12345-0520",
+		"Name": "Zambia Demo",
+		"LangId": "102"
+	},
+	{
+		"SlyId": "8",
+		"Coursepack": "117-001-BRA-MN-945-DEM_ED-12345-0420",
+		"Name": "Brazilian Portuguese Demo",
+		"LangId": "208"
+	},
+	{
+		"SlyId": "9",
+		"Coursepack": "117-001-BRA-MN-945-DEM_ED-12345-0420",
+		"Name": "Brazilian Portuguese Demo",
+		"LangId": "208"
+	},
+	{
+		"SlyId": "2",
+		"Coursepack": "117-100-CB7-MN-942-DEM_ED-12345-0418",
+		"Name": "GSEB Demo",
+		"LangId": "102"
+	},
+	{
+		"SlyId": "39",
+		"Coursepack": "117-100-CB7-MN-942-DEM_ED-12345-0418",
+		"Name": "Madhya Pradesh Board Demo",
+		"LangId": "102"
+	}
+]

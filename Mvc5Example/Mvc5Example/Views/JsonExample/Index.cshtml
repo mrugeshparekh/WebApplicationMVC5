@@ -1,0 +1,12 @@
+﻿@model Mvc5Example.Models.JsonExampleModel
+@{
+    ViewBag.Title = "Index";
+}
+
+<h2>Json Example</h2>
+
+<div class="form-group">
+    @Html.LabelFor(m => m.LanguageId)
+    @Html.DropDownListFor(m => m.LanguageId, Model.AvailableLanguageIds, new { @class = "form-control" })
+    @Html.ValidationMessageFor(m => m.LanguageId)
+</div>

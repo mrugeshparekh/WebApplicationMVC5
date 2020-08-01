@@ -1,0 +1,35 @@
+﻿@model IEnumerable<Mvc5Example.Controllers.ContactModel>
+@{
+    ViewBag.Title = "About";
+}
+
+
+
+
+
+<h2>@ViewBag.Title.</h2>
+<h3>@ViewBag.Message</h3>
+
+<table id="dataTable">
+    <thead>
+        <tr>
+            <td>First Name</td>
+            <td>Last Name</td>
+            <td>Given Name</td>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var item in Model)
+        {
+            <tr>
+                <td>@item.FirstName</td>
+                <td>@item.LastName</td>
+                <td>@item.GivenName</td>
+            </tr>
+        }
+    </tbody>
+</table>
+
+<p>Use this area to provide additional information.</p>
+
+
